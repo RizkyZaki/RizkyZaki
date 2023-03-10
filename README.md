@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@unknown_hab" target="blank"><img src="https://img.shields.io/twitter/follow/unknown_hab?logo=twitter&style=for-the-badge" alt="unknown_hab" /></a> </p>
 
-- 🌱 I’m currently learning **React, Nuxt, TypeScript**
+- 🌱 I’m currently learning **React, AlpineJs, TypeScript**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
