@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, AlpineJs, TypeScript**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at <a href="https://zach-me.vercel.app" target="blank">Heree</a>
 
 - 📫 How to reach me **rizkyzaki682@gmail.com**
 
