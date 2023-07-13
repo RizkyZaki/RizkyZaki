@@ -1,10 +1,10 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 <h1 align="center">Holaa 👋, I'm Rizky Zaki / Zach</h1>
-<h3 align="center">A passionate web development from indonesia</h3>
+<h3 align="center">A passionate Developer from indonesia</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://zach-me.vercel.app" target="blank">Heree</a>
+- 👨‍💻 All of my projects are available at <a href="https://zach-me.vercel.app" target="blank">Here...</a>
 
 - 📫 How to reach me **rizkyzaki682@gmail.com**
 
