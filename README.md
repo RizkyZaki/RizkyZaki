@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rizkyzaki682@gmail.com**
 
-- ⚡ Fun fact **I love Music**
+- ⚡ Fun fact **I love Music and ofc my bubub elvana**
 
 - 🔥 Keep spirit 
 
