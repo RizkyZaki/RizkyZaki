@@ -1,4 +1,4 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
+![MasterHead]("https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif")
 <h1 align="center">Holaa 👋, I'm Rizky Zaki / Zach</h1>
 <h3 align="center">Developer from indonesia</h3>
 
