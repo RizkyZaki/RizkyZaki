@@ -19,7 +19,7 @@
 # 🙌🏻 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/rizky zaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky zaki" height="30" width="40" /></a>
-<a href="https://instagram.com/fuyuko01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuyuko01" height="30" width="40" /></a>
+<a href="https://instagram.com/_zch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuyuko01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kruvuk69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kruvuk69" height="30" width="40" /></a>
 <a href="https://discord.gg/Zaxxch#3289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zaxxch#3289" height="30" width="40" /></a>
 </p>
