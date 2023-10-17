@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **rizkyzaki682@gmail.com**
 
+- 🎓️ Studying at **Telkom University**
+
 - ⚡ Fun fact **I love Music and ofc my bubub elvana**
 
 - 🔥 Keep spirit 
