@@ -10,13 +10,13 @@
 
 - 🎓️ Studying at **Telkom University**
 
-- ⚡ Fun fact **I love Music and ofc my bubub elvana**
+- ⚡ Fun fact **I love Music**
 
 - 🔥 Keep spirit 
 
 - 🤝 My bestfriend is error
 
-- 🏡 rarely go out, except with my love
+- 🏡 rarely go out, except urgent
 
 # 🙌🏻 Connect With Me:
 <p align="left">
