@@ -2,7 +2,7 @@
 <h1 align="center">Holaa 👋, I'm Rizky Zaki / Zach</h1>
 <h3 align="center">Developer from indonesia</h3>
 
-- 🌱 I’m currently learning **Cloud Computing & artificial intelligence**
+- 🌱 I’m currently learning **Cloud Computing & AI**
 
 - 👨‍💻 All of my projects are available at <a href="https://zach-me.vercel.app" target="blank">Here...</a>
 
